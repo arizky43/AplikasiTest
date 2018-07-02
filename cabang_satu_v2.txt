@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 FFF
+=======
+asd
+>>>>>>> cabang_satu
